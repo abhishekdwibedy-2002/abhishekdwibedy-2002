@@ -14,8 +14,8 @@ I'm Truely passionate about travelling , playing cricket 🏏 and chess ♟️ ,
 
  # 📫 Connect Me At Below - 
  - [Linkedin = Abhishek Dwibedy](https://www.linkedin.com/in/abhishekdwibedy/)  
- - [Github = abhishekdwibedy-2002](https://github.com/abhishekdwibedy-2002) , 
+ - [Github = abhishekdwibedy-2002](https://github.com/abhishekdwibedy-2002) 
  - [Twitter = AbhishekDwibedy](https://twitter.com/AbhishekDwibedy)               
- - [Instagram = abhishek_dwibedy](https://www.instagram.com/abhishek_dwibedy/) ,
+ - [Instagram = abhishek_dwibedy](https://www.instagram.com/abhishek_dwibedy/) 
  - [Facebook = Abhishek Dwibedy](https://www.facebook.com/AbhishekDwibedy.2002)
 
