@@ -2,7 +2,7 @@
 
 
 # About Me ✍
-I am **Abhishek Dwibedy** , a pursuing a Bachelor Of Technology Degree in *Information Technology* Engineering. As of focusing in Computer 💻 Field  , I have too much interest in learning and implementing new Tools and Technologies. Love to do Automation. Always passionate about understanding the core concepts behind different popular Technological Fields. As a person, I am friendly , hard-working with interest in exploring and learning new technologies . One of my qualities is I'm a good listener because I think most of the problems are solve only by proper listening rather than argue.
+I am **Abhishek Dwibedy** , a pursuing a Bachelor Of Technology Degree in *Information Technology* Engineering From **College Of Engineering And Technology, Bhubaneswar**. As of focusing in Computer 💻 Field  , I have too much interest in learning and implementing new Tools and Technologies. Love to do Automation. Always passionate about understanding the core concepts behind different popular Technological Fields. As a person, I am friendly , hard-working with interest in exploring and learning new technologies . One of my qualities is I'm a good listener because I think most of the problems are solve only by proper listening rather than argue.
 # 🌱 Technical Skills 🛠
 **I'M STILL LEARNING**  
 
