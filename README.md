@@ -5,11 +5,6 @@
 # About Me ✍
 I'm **[Abhishek](https://www.linkedin.com/in/abhishekdwibedy/)** , a pursuing a Bachelor Of Technology Degree in *Information Technology* Engineering From **[College Of Engineering And Technology, Bhubaneswar](https://www.cet.edu.in/)**. As of focusing in Computer 💻 Field  , I have too much interest in learning and implementing new Tools and Technologies. Love to do Automation. Always passionate about understanding the core concepts behind different popular Technological Fields in the areas of [DevOps](https://en.wikipedia.org/wiki/DevOps#:~:text=DevOps%20is%20a%20set%20of,delivery%20with%20high%20software%20quality.) like Ansible, Docker, kubernetes, Jenkins and Terraform . You can also find me interested in Cloud( AWS) and how we can use DevOps tool to automate these technologies.
 
-## 🌱 Technical Skills 🛠
-**I'M STILL LEARNING**  
-
-As we all know that under engineering, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the engineer always help him, in the same way at all the time, so I have some technical skills too, which are the following but I am also in a learning state and learning many tools and technologies under the World Record Holder [**Mr. Vimal Daga**](https://www.linkedin.com/in/vimaldaga/) in the one of the best training Program [*Arth-the school of technologies*](https://www.linkedin.com/company/rightarth/) of [**Linux World informatics Pvt Ltd.**](https://www.linkedin.com/company/linuxworld-informatics-pvt-ltd/mycompany/)
-
 
 # ⚡ Fun fact: ...
 I'm Truely passionate about travelling , playing cricket 🏏 and chess ♟️ , cooking food and listening Songs 🎵 as this is the only work that heals me from inside 😄.
