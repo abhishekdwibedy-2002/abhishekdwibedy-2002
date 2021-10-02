@@ -36,6 +36,9 @@ I'm Truely passionate about travelling , playing cricket 🏏 and chess ♟️ ,
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=abhishekdwibedy-2002&theme=chartreuse-dark&show_icons=true" alt="Braydon's GitHub Stats" />
 </a>
 
+
+![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekdwibedy-2002&theme=dark&show_icons=true)
+
 <a href="https://github.com/abhishekdwibedy-2002">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdwibedy-2002&theme=chartreuse-dark&layout=compact&hide=html" />
 </a>
