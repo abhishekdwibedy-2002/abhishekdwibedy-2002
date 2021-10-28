@@ -1,6 +1,6 @@
 # Hi {𝚌𝚘𝚍𝚎𝚛𝚜}! , I am [Abhishek Dwibedy](https://www.linkedin.com/in/abhishekdwibedy/) 👨‍🎓 
 
- ![](https://visitor-badge.laobi.icu/badge?page_id=abhishekdwibedy-2002.abhishekdwibedy-2002)         [![Github](https://img.shields.io/github/followers/abhishekdwibedy-2002?label=Follow&style=social)](https://github.com/abhishekdwibedy-2002)
+![](https://visitor-badge.laobi.icu/badge?page_id=abhishekdwibedy-2002.abhishekdwibedy-2002)         [![Github](https://img.shields.io/github/followers/abhishekdwibedy-2002?label=Follow&style=social)](https://github.com/abhishekdwibedy-2002)
 
 # About Me ✍
 I'm **[Abhishek](https://www.linkedin.com/in/abhishekdwibedy/)** , a pursuing a Bachelor Of Technology Degree in *Information Technology* Engineering From **[College Of Engineering And Technology, Bhubaneswar](https://www.cet.edu.in/)**. As of focusing in Computer 💻 Field  , I have too much interest in learning and implementing new Tools and Technologies. Love to do Automation. Always passionate about understanding the core concepts behind different popular Technological Fields in the areas of [DevOps](https://en.wikipedia.org/wiki/DevOps#:~:text=DevOps%20is%20a%20set%20of,delivery%20with%20high%20software%20quality.) like Ansible, Docker, kubernetes, Jenkins and Terraform . You can also find me interested in Flutter and  Cloud( AWS) and how we can use DevOps tool to automate these technologies.
